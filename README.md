@@ -1,4 +1,4 @@
-# Best way to predict the future is to create it
+# Best Way To Predict The Future Is To Create It
 ## You've reached the profile of ਬੇਈਮਾਨ!
 ## Hi there 👋, I'm Subh!
 
