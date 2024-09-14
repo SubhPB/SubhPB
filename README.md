@@ -1,10 +1,10 @@
-# Best Way To Predict The Future Is To Create It
+# ***Best Way To Predict The Future Is To Create It***
 ## You've reached the profile of ਬੇਈਮਾਨ!
 ## Hi there 👋, I'm Subh!
 
 ## 🚀 About Me
 
-I'm a software developer with all day learning mindset in science specifially ***Computer science*** and ***Mathematics.***
+I'm a software developer with all day learning mindset in science specifically ***Computer science*** and ***Mathematics.***
 
 - 🔭 I’m currently working on: Myself
 - 🌱 I’m currently learning: Deployment related skills (Jenkins, AWS services etc) and Applied Mathematics
