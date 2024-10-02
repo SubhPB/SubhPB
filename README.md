@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a software developer with all day learning mindset in science specifically ***Computer science*** and ***Mathematics.***
+I'm a 22-year-old software developer with all day learning mindset in science specifically ***Computer science*** and ***Mathematics.***
 
 - 🔭 I’m currently working on: Myself
 - 🌱 I’m currently learning: Deployment related skills (Jenkins, AWS services etc) and Applied Mathematics
