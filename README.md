@@ -6,8 +6,8 @@
 
 I'm a 22-year-old software developer with all day learning mindset in science specifically ***Computer science*** and ***Mathematics.***
 
-- 🔭 I’m currently working on: Myself
-- 🌱 I’m currently learning: Deployment related skills (Jenkins, AWS services etc) and Applied Mathematics
+- 🔭 I’m currently working on: ***[BuildingSystemsFromScratch](https://github.com/SubhPB/BuildingSystemsFromScratch)***
+- 🌱 I’m currently learning: ***Concrete Mathematics*** by Ronald Graham, Donald Knuth and Oren Patashnik
 - 📫 Best way to reach me: [byimaan1@gmail.com](mailto:byimaan1@gmail.com)
 
 ## 🛠️ Technologies & Tools
@@ -34,6 +34,7 @@ I'm a 22-year-old software developer with all day learning mindset in science sp
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
 
 ### 🔧 Current Project
+- [BuildingSystemsFromScratch](https://github.com/SubhPB/BuildingSystemsFromScratch): The goal of this repository is to gain a deeper understanding of the core components behind widely-used technologies by re-creating simplified versions of them. 
 - [Bchat](https://github.com/SubhPB/Bchat): A highly scalable chat application using express, nextjs, postgres, redis, kafka and various other AWS services with my own UI design. Check more in repository.
 
 
