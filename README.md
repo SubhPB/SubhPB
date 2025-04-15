@@ -7,7 +7,8 @@
 I'm a 22-year-old software developer with all day learning mindset in science specifically ***Computer science*** and ***Mathematics.***
 
 - 🔭 I’m currently working on: ***[BuildingSystemsFromScratch](https://github.com/SubhPB/BuildingSystemsFromScratch)***
-- 🌱 I’m currently learning: ***Concrete Mathematics*** by Ronald Graham, Donald Knuth and Oren Patashnik
+- 🌱 I’m currently learning: ![Go](https://img.shields.io/badge/-Go-000000?logo=go)
+and ***Concrete Mathematics*** by Ronald Graham, Donald Knuth and Oren Patashnik
 - 📫 Best way to reach me: [byimaan1@gmail.com](mailto:byimaan1@gmail.com)
 
 ## 🛠️ Technologies & Tools
