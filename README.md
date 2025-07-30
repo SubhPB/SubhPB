@@ -1,17 +1,19 @@
-# ***Best Way To Predict The Future Is To Create It***
-## You've reached the profile of ਬੇਈਮਾਨ!
-## Hi there 👋, I'm Subh!
+<h4>
+  The Best Way To Predict The Future Is To Create It.
+</h4>
 
-## 🚀 About Me
+![poster](assets/img-op.jpg)
 
-I'm a 22-year-old software developer with all day learning mindset in science specifically ***Computer science*** and ***Mathematics.***
 
-- 🔭 I’m currently working on: ***[BuildingSystemsFromScratch](https://github.com/SubhPB/BuildingSystemsFromScratch)***
-- 🌱 I’m currently learning: ![Go](https://img.shields.io/badge/-Go-000000?logo=go)
-and ***Concrete Mathematics*** by Ronald Graham, Donald Knuth and Oren Patashnik
-- 📫 Best way to reach me: [byimaan1@gmail.com](mailto:byimaan1@gmail.com)
+<h5>
+  “Some doors aren’t closed—they were never meant to be walked through.”  
+</h5>
 
-## 🛠️ Technologies & Tools
+<p>
+    <span style="font-style: italic;"> ( byimaan1@gmail.com ) </span>
+    <img src="https://img.icons8.com/?size=100&id=lhh6wDn8WdVQ&format=png&color=000000" height="22"/>
+</p>
+
 
 ![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apache-kafka)
 ![Redis](https://img.shields.io/badge/-Redis-black?logo=redis)
@@ -34,12 +36,21 @@ and ***Concrete Mathematics*** by Ronald Graham, Donald Knuth and Oren Patashnik
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
 
-### 🔧 Current Project
-- [BuildingSystemsFromScratch](https://github.com/SubhPB/BuildingSystemsFromScratch): The goal of this repository is to gain a deeper understanding of the core components behind widely-used technologies by re-creating simplified versions of them. 
-- [Bchat](https://github.com/SubhPB/Bchat): A highly scalable chat application using express, nextjs, postgres, redis, kafka and various other AWS services with my own UI design. Check more in repository.
 
+<h5>
+  "Can you hear the music?"
+</h5>
+<table >
+  <tr>
+    <td><h5>-</h5></td>
+    <td><img src="https://img.icons8.com/?size=100&id=13KBHI5xdOT3&format=png&color=000000" height="20"/></td>
+    <td><h5> ਬੇਈਮਾਨ ! </h5></td>
+  </tr>
+</table>
 
-### 📫 Last option to connect me except email.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/subh-byimaan-1260b82a8/)
+<p align="center" >
+  “Power stays in the shadows.”
+</p>
+
 
 
